@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JAVAEE-01">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAVAEE_01</output-path>
+    <root id="archive" name="JAVAEE-01.war" />
+  </artifact>
+</component>
