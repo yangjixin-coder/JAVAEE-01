@@ -13,6 +13,7 @@
         <module>JAVAEE-02</module>
         <module>core</module>
         <module>db</module>
+        <module>JAVAEE-SpringMVC</module>
     </modules>
 
 <dependencyManagement>

@@ -12,5 +12,8 @@
         <module name="db" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JAVAEE-SpringMVC" target="10" />
+    </bytecodeTargetLevel>
   </component>
 </project>
