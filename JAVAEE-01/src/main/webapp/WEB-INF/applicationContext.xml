@@ -3,4 +3,8 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <bean id="assignHWModel" class="org.example.javaee.class01.model.assignHWModel"/>
+    <bean id="studentListModel" class="org.example.javaee.class01.model.studentListModel"/>
+    <bean id="submitHWModel" class="org.example.javaee.class01.model.submitHWModel"/>
+
 </beans>
